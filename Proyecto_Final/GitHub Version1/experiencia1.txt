@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no"/>
+    <meta name="author" content="Gerardo Garzón Alvarez"/>
+    <meta name="keywords" content="html,css,xml,javascript,nextu"/>
+    <meta name="description" content="Hoja de Vida_Evaluación Final"/>
+    <title>CV Experiencia</title>
+  </head>
+  <body>
+    <header>
+      <svg widht="150px" height="150px">
+          <image xlink:href="C:\Users\chiqu\Desktop\Gerardo Garzón\NEXT_U\App_Hibridas\HTML_Fundamentos\Proyecto_Final\SVG\Logo_SVG.svg" width="150px" height="150px" x="15px" y="0px"></image>
+      </svg>
+        <h1>Hoja de Vida</h1>
+        <h2>Gerardo Garzón Alvarez</h2>
+        <h3>29.10.1900 - Bogota D.C</h3>
+    </header>
+    <nav>
+      <a href="../index.html">|<img src="C:\Users\chiqu\Desktop\Gerardo Garzón\NEXT_U\App_Hibridas\HTML_Fundamentos\Proyecto_Final\icons\home.png" alt="home" height="12" width="12"/> Inicio |</a>
+      <a href="educacion.html"><img src="C:\Users\chiqu\Desktop\Gerardo Garzón\NEXT_U\App_Hibridas\HTML_Fundamentos\Proyecto_Final\icons\edu.png" alt="educacion" height="12" width="12"/> Educación |</a>
+      <a href="experiencia.html"><img src="C:\Users\chiqu\Desktop\Gerardo Garzón\NEXT_U\App_Hibridas\HTML_Fundamentos\Proyecto_Final\icons\job.png" alt="experiencia" height="12" width="12"/> Experiencia |</a>
+    </nav>
+    <p>
+      <h2>Experiencia</h2>
+      <h3>Narguilenado con Gerardo</h3>
+      <video src="C:\Users\chiqu\Desktop\Gerardo Garzón\NEXT_U\App_Hibridas\HTML_Fundamentos\Proyecto_Final\media\película.mp4" controls poster="C:\Users\chiqu\Desktop\Gerardo Garzón\NEXT_U\App_Hibridas\HTML_Fundamentos\Proyecto_Final\media\22bcdd2371aab26f8088260c1fec3337.jpg" width="400px" height="300px"></video>
+      <h3>La otra cara de Gerardo</h3>
+      <audio src="C:\Users\chiqu\Desktop\Gerardo Garzón\NEXT_U\App_Hibridas\HTML_Fundamentos\Proyecto_Final\media\Fantan Mojah - Rasta Got Soul - Official Video.mp3" controls></audio>
+    </p>
+    <footer>
+      <img src="C:\Users\chiqu\Desktop\Gerardo Garzón\NEXT_U\App_Hibridas\HTML_Fundamentos\Proyecto_Final\icons\copyright.png" alt="derechos" height="12px"/> Derechos de autor <img src="C:\Users\chiqu\Desktop\Gerardo Garzón\NEXT_U\App_Hibridas\HTML_Fundamentos\Proyecto_Final\icons\copyright.png" alt="derechos" height="12px"/>
+      <p>
+        <ul>
+          <li><strong>e-mail</strong> <a href="mailto:gerardpuj@gmail.com?subject=Proyecto Final NextU"><em>Gerardpuj@gmail.com</em></a></li>
+          <li><strong>teléfono</strong> (+57)319 240 1975</li>
+          <li><strong>dirección</strong> Cll 146 #58C-21. Int 10. Apto 402. <em>Bogotá D.C.Colombia</em></li>
+          <li><strong>linkedin</strong> <a href="https://www.linkedin.com/in/gerardo-garzón-alvarez-1990/" target="_blank"><em>Gerardo Garzón Alvarez</em></a></li>
+        </ul>
+      </p>
+      <h5><em>Reservados todos los &copy;Derechos de autor y &reg;Marca registrada</em></h5>
+    </footer>
+  </body>
+</html>

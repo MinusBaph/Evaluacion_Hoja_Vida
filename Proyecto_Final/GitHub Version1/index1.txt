@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, user-scalable=no"/>
+    <meta name="author" content="Gerardo Garzón Alvarez"/>
+    <meta name="keywords" content="html,css,xml,javascript,nextu"/>
+    <meta name="description" content="Hoja de Vida_Evaluación Final"/>
+    <title>Evaluación Final CV</title>
+  </head>
+  <body>
+    <header>
+      <svg widht="150px" height="150px">
+          <image xlink:href="SVG\Logo_SVG.svg" width="150px" height="150px" x="15px" y="0px"></image>
+      </svg>
+        <h1>Hoja de Vida</h1>
+        <h2>Gerardo Garzón Alvarez</h2>
+        <h3>29.10.1900 - Bogota D.C</h3>
+    </header>
+    <nav>
+      <a href="index.html">|<img src="icons\home.png" alt="home" height="12" width="12"/> Inicio |</a>
+      <a href="html/educacion.html"><img src="icons\edu.png" alt="educacion" height="12" width="12"/> Educación |</a>
+      <a href="html/experiencia.html"><img src="icons\job.png" alt="experiencia" height="12" width="12"/> Experiencia |</a>
+    </nav>
+    <p>
+      <h2>Información Personal</h2>
+      <img src="img\Foto.jpg" alt="Foto Perfil" title="Foto Perfil" width="225px" height="225px"/>
+    </p>
+    <p>
+      <h3>Perfil</h3>
+      Profesional en <strong>Ingenieria Electrónica</strong> de la Pontificia Universidad Javeriana.<br>Con énfasis en:
+      <ol>
+        <li><em>Sistemas embebidos</em> (microcontroladores).</li>
+        <li><em>Internet de las cosas</em> (IoT).</li>
+        <li><em>Automatización de edificios</em> (Domótica, Redes, e Instalaciones Eléctricas).</li>
+      </ol>
+      Cuento con una especialización en <strong>Diseño Industrial</strong> como complementaria a mi carrera.
+    </p>
+    <p>
+      <h4>Idiomas</h4>
+      <ul>
+        <li>Español <em>Nativo</em> </li>
+        <li>Ingles <em>Intermedio <strong>B2</strong> </em> </li>
+      </ul>
+    </p>
+    <footer>
+      <img src="icons\copyright.png" alt="derechos" height="12px"/> Derechos de autor <img src="icons\copyright.png" alt="derechos" height="12px"/>
+      <p>
+        <ul>
+          <li><strong>e-mail</strong> <a href="mailto:gerardpuj@gmail.com?subject=Proyecto Final NextU"><em>Gerardpuj@gmail.com</em></a></li>
+          <li><strong>teléfono</strong> (+57)319 240 1975</li>
+          <li><strong>dirección</strong> Cll 146 #58C-21. Int 10. Apto 402. <em>Bogotá D.C.Colombia</em></li>
+          <li><strong>linkedin</strong> <a href="https://www.linkedin.com/in/gerardo-garzón-alvarez-1990/" target="_blank"><em>Gerardo Garzón Alvarez</em></a></li>
+        </ul>
+      </p>
+      <h5><em>Reservados todos los &copy;Derechos de autor y &reg;Marca registrada</em></h5>
+    </footer>
+  </body>
+</html>
