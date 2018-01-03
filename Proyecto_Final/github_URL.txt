@@ -1,6 +1,1 @@
-https://github.com/MinusBaph/Evaluacion_Hoja_Vida.git
-
-pdt: los tutores me han sido de gran ayuda pero no son los encargados de darme un 
-curso de github y subir proyectos.
-si solicitn el uso de esta herramienta lo minimo es un tutorial de como hacerlo, con 
-un proyecto de HTML.
+https://github.com/MinusBaph/Evaluacion_Hoja_Vida
